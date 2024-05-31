@@ -5,6 +5,8 @@ name = "pypi"
 
 [packages]
 vyper = "==0.3.7"
+eth-ape = "*"
+ape-vyper = "*"
 
 [dev-packages]
 
